@@ -1,0 +1,10 @@
+package list.strategy.strategies;
+
+/**
+ * Artem Voytenko
+ * 10.11.2018
+ */
+
+public interface Strategy {
+	int doOperation(int num1, int num2);
+}
